@@ -46,11 +46,11 @@ O arquivo de parametrização deve conter os termos de busca a serem utilizados 
 - Objetivo: Validar o comportamento do sistema sob carga normal de usuários
 
 ### Teste de Estresse
-- Threads: 400
+- Threads: 1000
 - Objetivo: Avaliar o sistema em condições extremas
 
 ### Teste de Pico
-- Threads: 400
+- Threads: 1000
 - Objetivo: Analisar o comportamento em picos repentinos de acesso
 
 ## 📈 Relatórios
